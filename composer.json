@@ -1,0 +1,17 @@
+{
+  "name": "almapirata/bracket_checker",
+  "description": "description",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "artemvorov",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
