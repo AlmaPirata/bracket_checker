@@ -30,8 +30,3 @@ class Checker
     }
 
 }
-
-//$checker = new Checker();
-//var_dump($checker->checkBrackets('()()'));
-//var_dump($checker->checkBrackets('()()('));
-//var_dump($checker->checkBrackets('()()(1'));
