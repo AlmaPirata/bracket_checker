@@ -28,5 +28,4 @@ class Checker
 
         return $this->doMagic($string);
     }
-
 }
